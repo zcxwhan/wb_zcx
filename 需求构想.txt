@@ -1,0 +1,21 @@
+//gulp
+   //生产阶段：1.css文件合并压缩重命名复制编译 2.js用requiejs 压缩复制不重命名编译 3.html替换和所有代码处理最后做处理
+   //开发阶段：1.js用requiejs 命名.min.js 2.编译scss es6做监听 页面无刷新监听  3.css命名规则先后顺序 最后每个页面一个css
+
+//git 每日上传更新版本 更新内容
+
+核心功能：
+
+//主页：
+leftBanner功能； banner轮播图； 楼梯功能  右侧边栏 主内容ajax获取json数据
+
+//列表页
+参照 http://www.wbiao.cn/dynamic/17122634242/
+
+//详情页
+location.href跳转 ajax请求
+
+//购物车页cookie 模拟
+
+//登录注册 用MySQL传入数据库方式
+
